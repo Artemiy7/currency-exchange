@@ -9,3 +9,4 @@ https://github.com/fawazahmed0/currency-api/tree/1
 5.Код викласти на git hub.
 Сервіс має бути написан на springframework з non blocking підходом
 за допомогою Spring WebFlux.
+https://exchangerate.host/#/#docs
